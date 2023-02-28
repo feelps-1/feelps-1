@@ -1,4 +1,3 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiopapais@hotmail.com)](mailto:felipesansoliv01@gmail.com)
 
 - 👋 Hi, I’m @feelps-1, I'm from Brazil
 - 🌟 **Eletronics student** at [Instituto Federal de Pernambuco(IFPE)](https://ifpe.edu.br/)
