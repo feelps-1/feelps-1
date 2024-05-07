@@ -1,10 +1,11 @@
 
 - 👋 Hi, I’m Felipe Oliveira, I'm from Pernambuco, Brazil
 - 🌟 **Eletronics student** at [Instituto Federal de Pernambuco(IFPE)](https://ifpe.edu.br/)
+- Undegraduate of **Informational Systems** at [Centro de Informática(CIN - UFPE)](https://portal.cin.ufpe.br/)
 - 👀 I’m passionate about eletronics, books, programming amd competitions!
 - I'm currently a student working with **robotics, data analysis** and **inovation**
-- I'm a competitor at Competição Brasileira de Robótica/Latin America Robotics Competition in RoboCup Junior Rescue Maze category
-- 🌱 I’m currently studying **R, Python and Arduino language**
+- I'm a researcher with sensors and embedded systems working with assistive technology
+- 🌱 I’m currently studying **Java, Python and Arduino language**
 
 <div align = "center">
 
