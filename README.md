@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Felipe Oliveira, I'm from Pernambuco, Brazil
+- 👋 Hi, I’m Felipe Oliveira, from Pernambuco, Brazil
 - 🌟 **Eletronics technician** at [Instituto Federal de Pernambuco(IFPE)](https://ifpe.edu.br/)
 - Undergraduate of **Information Systems** at [Centro de Informática(CIN - UFPE)](https://portal.cin.ufpe.br/)
 - 👀 I’m passionate about eletronics, books, programming and competitions!
