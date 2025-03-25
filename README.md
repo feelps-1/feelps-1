@@ -3,14 +3,12 @@
 - 🌟 **Eletronics technician** at [Instituto Federal de Pernambuco(IFPE)](https://ifpe.edu.br/)
 - Undergraduate of **Information Systems** at [Centro de Informática(CIN - UFPE)](https://portal.cin.ufpe.br/)
 - 👀 I’m passionate about eletronics, books, programming and competitions!
-- I'm currently a student working with **robotics, data analysis** and **inovation**
-- I'm a researcher in the area of sensors and embedded systems working with assistive technology
-- You can acess my [portfolio here](https://myportfolio-feelps-1s-projects.vercel.app/)
+- You can acess my [portfolio here](https://myportfolio-feelps-1s-projects.vercel.app/) (Work in progress!)
 
 <div align="center">
   <h2>My stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,nodejs,figma,cpp,c,arduino,py,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,nodejs,figma,cpp,c,arduino,py,postgres,java,spring,angular" />
   </a>
 </div>
 
