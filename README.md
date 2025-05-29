@@ -3,6 +3,7 @@
 - 🌟 **Eletronics technician** at [Instituto Federal de Pernambuco(IFPE)](https://ifpe.edu.br/)
 - Undergraduate of **Information Systems** at [Centro de Informática(CIN - UFPE)](https://portal.cin.ufpe.br/)
 - 👀 I’m passionate about eletronics, books, programming and competitions!
+- Currently working as Fullstack Developer Intern at Avanade
 - You can acess my [portfolio here](https://myportfolio-feelps-1s-projects.vercel.app/) (Work in progress!)
 
 <div align="center">
