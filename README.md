@@ -50,7 +50,7 @@ I'm interested in the full journey from identifying a problem to prototyping, te
 
 ## Let's connect
 
-You can explore my [portfolio](https://myportfolio-feelps-1s-projects.vercel.app/) — currently a work in progress — or reach out through the links below.
+You can explore my [portfolio](https://portfolio-feelps-1s-projects.vercel.app/) or reach out through the links below.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipsoliveira">
